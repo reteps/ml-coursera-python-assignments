@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "888418d658a906e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "90d08827dec06d50",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week 1 - Intro.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "389f8d2973e19011",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d8b96366855cbf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eab4b845c409dbd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a73c5568ff91ca9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "6d03f1ad10261745",
+    "type": "split",
+    "children": [
+      {
+        "id": "84c627350f96d25e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfaa9227af0c1680",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 1 - Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "90d08827dec06d50",
+  "lastOpenFiles": [
+    "Week 1 - Intro.md"
+  ]
+}
